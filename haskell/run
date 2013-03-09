@@ -1,0 +1,4 @@
+#!/bin/sh
+
+ghc -o hello helloworld.hs
+./hello
