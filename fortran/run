@@ -1,0 +1,4 @@
+#!/bin/sh
+
+gfortran -o hello helloworld.f90
+./hello

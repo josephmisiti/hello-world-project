@@ -1,0 +1,4 @@
+#!/bin/sh
+
+gcc helloworld.c
+./a.out
